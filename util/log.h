@@ -72,7 +72,7 @@ extern enum verbosity_value verbosity;
  * @param format: printf-style format string. Arguments follow.
  */
 void verbose(enum verbosity_value level, 
-	const char* format, ...) ATTR_FORMAT(printf, 2, 3);
+	const char* format, ...) ;
 
 /**
  * call this to initialize logging services.

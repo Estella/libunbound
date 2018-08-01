@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "context.h": "c",
+    "iterator.h": "c",
+    "syslog.h": "c",
+    "keyraw.h": "c"
+  }
+}

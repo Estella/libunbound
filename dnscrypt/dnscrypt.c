@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <fcntl.h>
 #ifdef HAVE_TIME_H
-#include <time.h>
+
 #endif
 #include <inttypes.h>
 #include <sys/time.h>
